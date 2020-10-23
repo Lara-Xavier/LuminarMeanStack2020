@@ -1,0 +1,35 @@
+
+body{
+    font-family: 'Libre Baskerville', serif;
+}
+
+h1{
+    text-align: center;
+    margin-top: 10%;
+    color: darkred;
+}
+div{
+  
+    color: darkslateblue;
+}
+#one{
+    border-style: solid;
+    border-color: deeppink;
+    width: 50;
+    margin-top: 4%;
+    margin-left: 5%;
+    padding: 10px;
+    text-align: center;
+}
+#two{
+    border-style: groove;
+    border-color: deeppink;
+    width: 30%;
+
+}
+#three{
+    border-style: groove;
+    border-color: deeppink;
+    width: 30%;
+
+}

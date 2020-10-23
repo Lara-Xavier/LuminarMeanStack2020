@@ -1,0 +1,38 @@
+h1{
+    color: darkturquoise;
+}
+#two{
+    border-style: dotted;
+    border-color: deeppink;
+}
+
+.one{
+    color: firebrick;
+}
+h2{
+    color: forestgreen;
+}
+body{
+    background-color: dodgerblue;
+}
+.li1{
+    color: firebrick;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    border-style: groove;
+    border-color: greenyellow;
+    background-color: indianred;
+}
+h3{
+    color: indigo;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: larger;
+
+}
+#li2{
+    color: blue;
+    border-style: ridge;
+}
+.lic1{
+    color: maroon;
+}
